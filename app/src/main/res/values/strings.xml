@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Teman BISINDO</string>
+    <string name="slogan_name">Ayo Belajar Bahasa Isyarat</string>
+
+    <!--Dashboard-->
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--Button-->
+    <string name="next_button">Next</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+
+    <!--Title-->
+    <string name="into_title">Intro Title</string>
+    <string name="intro_desc">Description</string>
+    <string name="textview">Text View</string>
+</resources>
